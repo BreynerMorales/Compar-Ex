@@ -1,3 +1,4 @@
+# This Script generate report in txt file
 from openpyxl import load_workbook
 from openpyxl.utils import get_column_letter
 from tkinter import Tk, filedialog
